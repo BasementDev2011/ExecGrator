@@ -3,3 +3,5 @@ noticed that even though they're portable, there's a lot of issues when it comes
 
 Basically:
 A packet manager for your .AppImages, so you have no more issues integrating things into your system
+
+NOTE: This is still at an early development phase. Expect bugs
