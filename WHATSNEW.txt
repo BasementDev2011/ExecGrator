@@ -17,4 +17,12 @@ ExecGrator v1.1.1 [QUICK PATCH]
 
 > Added safety net for trailing commas
 
-Much needed after some difficulties.
+Much needed.
+
+ExecGrator v1.2.2 [OVERHAUL - STABLE]
+
+> Fixed bugs with executables not pointing where they should be
+> Code cleanup
+> Stability is now available
+
+Please treat this version as the first USEFUL version. The others are bad now. Use this one if you want something actually useful.
