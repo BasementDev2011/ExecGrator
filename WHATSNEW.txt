@@ -1,0 +1,8 @@
+ExecGrator v1.0.1 (Previously AppImager)
+
+> Overhauled the remove command
+> added "install-single" command for separating single installations with folder-based installations
+> added "install" for folder-based installations
+> added a help menu
+
+You could say i overhauled AppImager, but that's besides the point.
