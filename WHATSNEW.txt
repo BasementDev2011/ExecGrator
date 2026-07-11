@@ -4,25 +4,15 @@ ExecGrator v1.0.0 (Previously AppImager)
 
 This is really only kept for archival purposes.
 
-ExecGrator v1.1.0 [OVERHAUL]
+ExecGrator v2.0.0 [OVERHAUL - STABLE]
+
+> Fixed bugs with executables not pointing where they should be
+> Code cleanup
+> Trailing slash bug is removed
 
 > Overhauled the remove command
 > added "install-single" command for separating single installations with folder-based installations
 > added "install" for folder-based installations
 > added a help menu
 
-It's more useful.
-
-ExecGrator v1.1.1 [QUICK PATCH]
-
-> Added safety net for trailing commas
-
-Much needed.
-
-ExecGrator v1.2.2 [OVERHAUL - STABLE]
-
-> Fixed bugs with executables not pointing where they should be
-> Code cleanup
-> Stability is now available
-
-Please treat this version as the first USEFUL version. The others are bad now. Use this one if you want something actually useful.
+Yaey, it's stable now.
