@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ExecGrator="v1.0.2"
+ExecGrator="v1.1.1 [QUICK PATCH]"
 
 if [ "$1" = "version" ]
 then
