@@ -11,10 +11,10 @@ ExecGrator v1.1.0 [OVERHAUL]
 > added "install" for folder-based installations
 > added a help menu
 
-You could say i overhauled AppImager, but that's besides the point.
+It's more useful.
 
 ExecGrator v1.1.1 [QUICK PATCH]
 
 > Added safety net for trailing commas
 
-Yup, that's it
+Much needed after some difficulties.
