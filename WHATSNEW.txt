@@ -2,7 +2,7 @@ ExecGrator v1.0.0 (Previously AppImager)
 
 > Basic features
 
-Meh.
+This is really only kept for archival purposes.
 
 ExecGrator v1.1.0 [OVERHAUL]
 
