@@ -2,3 +2,5 @@ Add an .xgr file which will contain all the things that are currently downloaded
 install/uninstall stuff.
 
 Logging, like a history of what you installed/uninstalled
+
+More safety nets???
