@@ -13,7 +13,7 @@ ExecGrator v1.1.0 [OVERHAUL]
 
 You could say i overhauled AppImager, but that's besides the point.
 
-ExecGrator v1.1.2 [QUICK PATCH]
+ExecGrator v1.1.1 [QUICK PATCH]
 
 > Added safety net for trailing commas
 
