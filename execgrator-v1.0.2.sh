@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ExecGrator="v1.0.3"
+ExecGrator="v1.0.2"
 
 if [ "$1" = "version" ]
 then
