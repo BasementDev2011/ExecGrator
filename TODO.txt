@@ -1,0 +1,4 @@
+Add an .xgr file which will contain all the things that are currently downloaded. So you won't have to do /path/to/folder to
+install/uninstall stuff.
+
+Logging, like a history of what you installed/uninstalled
