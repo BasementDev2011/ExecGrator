@@ -1,8 +1,3 @@
-I made this tool to help you integrate your .AppImage executables into your system, because i've
-noticed that even though they're portable, there's a lot of issues when it comes down to proper integration and determinism
-with .AppImage files
+A simple tool for integrating executables into your system.
 
-Basically:
-A packet manager for your .AppImages, so you have no more issues integrating things into your system
-
-NOTE: This is still at an early development phase. Expect bugs
+I've noticed that it's difficult to integrate executables, specially when they're downloaded executables from the internet, Which becomes a tedious task when you want to integrate them into your system. This tool is for automating that process and to give you more peace of mind
