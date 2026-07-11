@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ExecGrator="v1.2.2 [OVERHAUL - STABLE]"
+ExecGrator="v2.0.0 [OVERHAUL - STABLE]"
 
 if [ "$1" = "version" ]
 then
