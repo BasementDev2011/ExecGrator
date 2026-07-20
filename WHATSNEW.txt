@@ -15,4 +15,4 @@ ExecGrator v2.0.0 [OVERHAUL - STABLE]
 > added "install" for folder-based installations
 > added a help menu
 
-Yaey, it's stable now.
+it's stable now.
